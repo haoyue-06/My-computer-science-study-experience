@@ -1,0 +1,70 @@
+💻 My First Hands-On Experience with Computer Assembly
+
+Today, I had the opportunity to attend a workshop on computer component assembly and disassembly. It was my first time working directly with the internal parts of a computer — something I’ve always been curious about. This experience helped me understand not just the names of the components, but also their functions and how they work together to make a system come alive.
+
+
+
+🧩 Components I Learned About
+
+1. Motherboard
+The motherboard is the main circuit board — it acts like the nervous system of the computer, connecting all components together. It provides the communication pathway between the CPU, RAM, storage devices, and other peripherals.
+
+2. RAM (Random Access Memory)
+RAM temporarily stores data and instructions that the CPU needs while performing tasks. It’s one of the main factors that affect the speed and performance of a computer.
+
+3. Hard Disk / SSD (Storage Device)
+The hard disk or SSD is where all files, software, and the operating system are stored permanently. SSDs are faster and more reliable compared to traditional HDDs.
+
+4. Power Supply Unit (PSU)
+The PSU converts electrical power from the wall outlet into the correct voltage for the computer’s components. Without it, the entire system cannot operate.
+
+5. Cooling Fan
+The cooling fan helps regulate the temperature inside the casing. It prevents components like the CPU and GPU from overheating, which can cause damage or reduced performance.
+
+6. Various Cables
+Cables are the veins of the system — they deliver data and power between components. Examples include SATA cables for storage and power cables for the motherboard and peripherals.
+
+
+
+
+🛠️ The Disassembly Process
+
+During the workshop, I learned how to carefully remove each component in the correct order:
+
+1. Remove the casing cover
+
+Open the side panel of the computer to access internal parts.
+
+2. Unplug all cables
+
+Disconnect data and power cables to avoid damage when removing parts.
+
+3. Remove the power supply unit (PSU)
+
+Unscrew and take out the PSU from its compartment.
+
+4. Remove the RAM modules
+
+Unlock the side clips and gently lift the RAM sticks from their slots.
+
+5. Remove the hard disk / SSD
+
+Detach it from the storage bay and disconnect the SATA cables.
+
+6. Remove the cooling fan
+
+Unscrew and lift it off carefully, avoiding contact with the motherboard.
+
+
+
+🔄 The Reassembly and Testing
+
+After disassembly, I reassembled all components step by step — connecting each cable, reattaching the PSU, inserting RAM and storage, and closing the casing. Finally, we connected the system to a power source to test if everything was installed correctly. Watching the system power up successfully gave me a real sense of achievement!
+
+
+
+
+💡 Reflection
+
+This workshop gave me a deeper appreciation of how hardware and software depend on each other. It wasn’t just about plugging parts together — it was about understanding how a computer breathes.
+As a data engineering student, this knowledge strengthens my foundation in computer architecture and helps me appreciate the physical layer behind every digital system we design or work with.
