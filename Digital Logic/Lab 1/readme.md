@@ -59,6 +59,13 @@ Each LED that lights up is a reminder:
 **Technology begins with logic, and logic begins with understanding the basics.**
  <p align="center">
   <img src="IMG_20251117_141016.jpg" width="400">
+  <img src="IMG_20251117_141427.jpg" width="400">
   <br>
-  <em>Figure 1 — Logic gate wiring during the lab session</em>
+  <em>Figure 1 — Briefing session</em>
+</p>
+<p align="center">
+  <img src="IMG_20251117_141447.jpg" width="400">
+ <img src="IMG_20251117_151824.jpg" width="400">
+  <br>
+  <em>Figure 2 — lab session </em>
 </p>
