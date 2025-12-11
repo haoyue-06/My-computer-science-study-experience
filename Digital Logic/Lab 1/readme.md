@@ -57,3 +57,8 @@ By wiring circuits, testing inputs, and observing LED outputs, abstract logic co
 A small lab session — but another important step forward.  
 Each LED that lights up is a reminder:  
 **Technology begins with logic, and logic begins with understanding the basics.**
+ <p align="center">
+  <img src="IMG_20251117_141016.jpg" width="400">
+  <br>
+  <em>Figure 1 — Logic gate wiring during the lab session</em>
+</p>
