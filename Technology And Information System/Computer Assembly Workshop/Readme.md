@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="IMG_20251030_155629.jpg" width="400">
+  <br>
+  <em>Figure 1 </em>
+</p>
+
 # 💻 My First Hands-On Experience with Computer Assembly
 
 Today, I had the opportunity to attend a workshop on computer component assembly and disassembly.  
@@ -77,8 +83,4 @@ It wasn’t just about plugging parts together — it was learning how a compute
 
 As a data engineering student, this hands-on experience strengthens my understanding of computer architecture and helps me appreciate the physical layer behind every digital system I work with.
 
-<p align="center">
-  <img src="IMG_20251030_155629.jpg" width="400">
-  <br>
-  <em>Figure 1 </em>
-</p>
+
