@@ -1,4 +1,4 @@
-# Digital Logic Lab — 17 November 2025
+# Digital Logic Lab 1— 17 November 2025
 
 A quiet reminder that every complex system begins with something simple —  
 a gate, a switch, a single line of truth in a table.
