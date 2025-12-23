@@ -1,1 +1,2 @@
-
+# SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
+Technology and Information System is a course to introduce students to fundemental concepts, components and application of technology and information systems, emphasizing their role in supporting individuals, organizations and society. The course covers key areas such as types of information systems, hardware, software, networks, data management,along with issues insecurity, ethics and digital transformation, supported by case studies and industry practices.
