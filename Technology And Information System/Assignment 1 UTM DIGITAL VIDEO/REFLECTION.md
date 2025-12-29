@@ -1,2 +1,6 @@
-
+My first assignment for the course Technology and Information System was to produce a video reflection on the visit to the UTM Digital Open Day. Completing this assignment was a meaningful experience for me. Through this visit, I was exposed to how digital technologies are applied to real-world problems.
+During the event, I visited several booths hosted by different companies. Each booth demonstrated how advanced technologies are applied to solve real-world problems, such as cybersecurity, automation, smart infrastructure and data-driven decision making. In addition, I attended several talks organised by UTM Digital. From these talks, I gained deeper insight into the role and skills required as a data engineer. This helped me a lot to prepare myself for my future career.
+Furthermore, my teammates and I interviewed UTM Digital staff to gather more detailed information. Through working with my teammates to complete this assignment, I learned the importance of teamwork and communication. I realised that I need to improve my communication skill so that the communication between my teammates and I can become more fluently. This also crucial when I work in industry in the future. 
+In conclusion, from this assignment, I not only opened my eyes to the technologies in this world, and also my weakness that I need to be improved.<br>
+My group video:
 https://drive.google.com/file/d/1wSgWP5re3JNDsw8nMc6mE43llwXEWeB8/view?usp=drivesdk
