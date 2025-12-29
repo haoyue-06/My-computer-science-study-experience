@@ -1,1 +1,1 @@
-
+From this industry talk, I gained a clearer understanding of how a global company like PPG relies on technology to operate efficiently across the world. I learned how data analytics drives better decisions, how cloud infrastructure keeps systems running 24/7, and how SAP connects every part of the business into one platform. The session helped me see how IT skills are applied in real industry, and it inspired me to build stronger technical abilities and prepare myself for future global projects.
