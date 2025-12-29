@@ -78,9 +78,6 @@ Seeing the computer boot successfully was a rewarding moment — proof that ever
 
 ## 💡 Reflection
 
-This workshop deepened my understanding of how hardware and software rely on each other.  
-It wasn’t just about plugging parts together — it was learning how a computer *breathes*.  
-
-As a data engineering student, this hands-on experience strengthens my understanding of computer architecture and helps me appreciate the physical layer behind every digital system I work with.
+This workshop is really an amazing experience for me. This is the first time that I had the opportunity to do assembly the computer. This hands-on experience strengthens my understanding of computer architecture and helps me appreciate the physical layer behind every digital system I work with.
 
 
