@@ -1,1 +1,7 @@
+1.What is your goal/dream with regard to your course/program?<br>
+My goal is to acquire the knowledge and skills required to become a professional data engineer so that I can obtain a high-paying job in the future. Besides, I also aim to build a foundation in data processing, data modeling and data system design. This knowledge can also become the basic for my further explanation into more advanced and specialised fields, such as artificial intelligence, algorithm optimization and data-driven research.<br>
+2.How does this design thinking impact on your goal/dream with regard to your program?<br><br>
+Design thinking improved my problem solving skills. I learned the importance of understanding real user needs before proposing solutions. It highlights that effective outcomes are not defined solely by technical complexity but by relevance and usability. This project also gives me a chance to connect theoretical knowledge with practical application. As a result, I can become an industry-ready graduate who is able to develop a solution that addresses genuine problems.<br><br>
+3.What is the action/improvement/plan necessary for you to improve your potential in the industry?<br>
+To improve my potential in the industry, I need to continuously learn new knowledge and apply them through practical and project-based learning. I should also improve my soft skills like communication skills and team working. It is important for me to develop a portfolio on Linkedin, github and my personal website to ensure that I can get a high paying job easier in the future.
 
