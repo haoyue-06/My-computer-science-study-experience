@@ -1,1 +1,2 @@
-https://youtu.be/TKPiOULXgkM?si=L7pZY-k9GiUasRtA
+My group's video: https://youtu.be/TKPiOULXgkM?si=L7pZY-k9GiUasRtA <br>
+This group assignment was the making of a video on the anti-corruption theme with my group mates. By participating in this group work, I acquired the skill of working with others to communicate a particular message. Making the video enabled me to use critical thinking on the aspects that require emphasis with the aim of creating awareness on the theme of corruption. The assignment also aided me in the development of my communication skills with the involvement of group work. This activity further reminded me of the significance of working with integrity both in my personal and working environments.
